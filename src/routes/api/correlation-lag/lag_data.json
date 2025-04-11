@@ -1,0 +1,13 @@
+[
+    {"stock_name":"TSLA","max_correlation":0.44404861173273125,"lag":0},
+    {"stock_name":"AMD","max_correlation":0.24721142113613298,"lag":0},
+    {"stock_name":"NIO","max_correlation":0.22794068111386007,"lag":0},
+    {"stock_name":"AAPL","max_correlation":0.21062879816953306,"lag":0},
+    {"stock_name":"AMZN","max_correlation":0.20811409538288456,"lag":0},
+    {"stock_name":"META","max_correlation":0.2017986302697125,"lag":0},
+    {"stock_name":"GOOG","max_correlation":0.1881086084765578,"lag":2},
+    {"stock_name":"PG","max_correlation":0.15133086112621533,"lag":2},
+    {"stock_name":"MSFT","max_correlation":0.1251508199773107,"lag":1},
+    {"stock_name":"TSM","max_correlation":0.11654807749616063,"lag":-2},
+    {"stock_name":"NFLX","max_correlation":-0.1428302518198931,"lag":-6}
+]

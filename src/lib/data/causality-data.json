@@ -1,0 +1,28 @@
+{
+    "sentimentToPrice": [
+      {"Stock Name": "AAPL", "Lag": 1, "P Value": 0.0032},
+      {"Stock Name": "AAPL", "Lag": 2, "P Value": 0.012},
+      {"Stock Name": "MSFT", "Lag": 1, "P Value": 0.0045},
+      {"Stock Name": "MSFT", "Lag": 2, "P Value": 0.018},
+      {"Stock Name": "GOOGL", "Lag": 1, "P Value": 0.025},
+      {"Stock Name": "GOOGL", "Lag": 2, "P Value": 0.041},
+      {"Stock Name": "AMZN", "Lag": 1, "P Value": 0.0087},
+      {"Stock Name": "AMZN", "Lag": 2, "P Value": 0.032}
+    ],
+    "priceToSentiment": [
+      {"Stock Name": "AAPL", "Lag": 1, "P Value": 0.042},
+      {"Stock Name": "AAPL", "Lag": 2, "P Value": 0.087},
+      {"Stock Name": "MSFT", "Lag": 1, "P Value": 0.035},
+      {"Stock Name": "MSFT", "Lag": 2, "P Value": 0.064},
+      {"Stock Name": "GOOGL", "Lag": 1, "P Value": 0.051},
+      {"Stock Name": "GOOGL", "Lag": 2, "P Value": 0.092},
+      {"Stock Name": "AMZN", "Lag": 1, "P Value": 0.028},
+      {"Stock Name": "AMZN", "Lag": 2, "P Value": 0.076}
+    ],
+    "correlation": [
+      {"Stock Name": "AAPL", "Max Correlation": 0.42, "Lag": 2},
+      {"Stock Name": "MSFT", "Max Correlation": 0.38, "Lag": 1},
+      {"Stock Name": "GOOGL", "Max Correlation": 0.31, "Lag": 3},
+      {"Stock Name": "AMZN", "Max Correlation": 0.45, "Lag": 1}
+    ]
+  }
