@@ -44,7 +44,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: https://sivapriya27.github.io/GRAPHS/
+      url: https://niketha-s.github.io/GRAPHS/
 
     steps:
       - name: Deploy
